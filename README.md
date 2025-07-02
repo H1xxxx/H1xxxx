@@ -27,7 +27,7 @@ class H1xxxx:
 
 def  __social__(self):
  self.gtb = "https://github.com/H1xxxx"
- self.dsc = "H1xxx" 
+ self.dsc = "H1xxxx" 
  self.tlg = "H1xxx1"
   
  ┌──(H1xxxx@root)-[~/]
